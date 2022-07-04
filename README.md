@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/diegomrodrigues/to-do-list.svg?branch=master)](https://travis-ci.org/diegomrodrigues/to-do-list) 
+[![Build Status](https://app.travis-ci.com/drSolutions-OpenSource/to-do-list.svg?branch=main)](https://app.travis-ci.com/github/drSolutions-OpenSource/to-do-list) 
 [![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-2.1-4baaaa.svg)](code_of_conduct.md)
 
 # To-do List - Gerenciamento de Atividades
